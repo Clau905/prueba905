@@ -1,0 +1,38 @@
+.contenedorMarmol{
+display:flex;
+flex-wrap: wrap;
+background-image: url('../../img/marmol.jpg');
+height:90%;
+}
+
+.contenedorMarmol h2{
+padding-top: 50px;
+font-family: 'Verdana', 'sans-serif';
+font-size: 30px;
+margin-left: 80px;
+font-weight: 200;
+line-height: 60px;
+width:100%;
+}
+
+.miNav{
+  
+   
+    display: flex;   
+    justify-content: flex-start;
+    margin-top:35px;
+}
+.contboton{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    width: 100px;
+    background-color: orangered;
+    border:none;
+    height: 40px;
+    color: #fff;
+    margin-top:35px;
+    margin-left: 200px;
+    
+    
+    }

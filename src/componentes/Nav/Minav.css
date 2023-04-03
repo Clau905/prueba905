@@ -1,0 +1,39 @@
+.contenedor-nav{
+    
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: .8rem;
+
+    
+}
+
+.item-nav  a{
+    display:inline-flex;
+    width: 100px;
+    height: 40px;
+    
+    border:none;
+   
+    margin:3px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.item-nav a:hover {
+    background-color:rgb(31, 150, 77);
+    color:white;
+    cursor:pointer;
+}
+
+h2{
+
+    font-size: 20px;
+    line-height: 20px;
+
+
+
+
+}
